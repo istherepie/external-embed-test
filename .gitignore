@@ -1,0 +1,15 @@
+# macos
+.DS_Store
+
+# development
+.idea
+.vscode
+.notes
+
+# js
+node_modules
+
+# misc
+*.log
+*.gob
+
